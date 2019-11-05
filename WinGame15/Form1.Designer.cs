@@ -64,9 +64,10 @@
             // 
             this.Btn00.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn00.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn00.Location = new System.Drawing.Point(40, 123);
+            this.Btn00.Location = new System.Drawing.Point(53, 151);
+            this.Btn00.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn00.Name = "Btn00";
-            this.Btn00.Size = new System.Drawing.Size(68, 59);
+            this.Btn00.Size = new System.Drawing.Size(91, 73);
             this.Btn00.TabIndex = 0;
             this.Btn00.TabStop = false;
             this.Btn00.Text = "15";
@@ -77,9 +78,10 @@
             // 
             this.Btn10.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn10.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn10.Location = new System.Drawing.Point(114, 123);
+            this.Btn10.Location = new System.Drawing.Point(152, 151);
+            this.Btn10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn10.Name = "Btn10";
-            this.Btn10.Size = new System.Drawing.Size(68, 59);
+            this.Btn10.Size = new System.Drawing.Size(91, 73);
             this.Btn10.TabIndex = 1;
             this.Btn10.TabStop = false;
             this.Btn10.Text = "15";
@@ -90,9 +92,10 @@
             // 
             this.Btn20.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn20.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn20.Location = new System.Drawing.Point(188, 123);
+            this.Btn20.Location = new System.Drawing.Point(251, 151);
+            this.Btn20.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn20.Name = "Btn20";
-            this.Btn20.Size = new System.Drawing.Size(68, 59);
+            this.Btn20.Size = new System.Drawing.Size(91, 73);
             this.Btn20.TabIndex = 2;
             this.Btn20.TabStop = false;
             this.Btn20.Text = "15";
@@ -103,9 +106,10 @@
             // 
             this.Btn30.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn30.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn30.Location = new System.Drawing.Point(262, 123);
+            this.Btn30.Location = new System.Drawing.Point(349, 151);
+            this.Btn30.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn30.Name = "Btn30";
-            this.Btn30.Size = new System.Drawing.Size(68, 59);
+            this.Btn30.Size = new System.Drawing.Size(91, 73);
             this.Btn30.TabIndex = 3;
             this.Btn30.TabStop = false;
             this.Btn30.Text = "15";
@@ -116,9 +120,10 @@
             // 
             this.Btn31.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn31.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn31.Location = new System.Drawing.Point(262, 188);
+            this.Btn31.Location = new System.Drawing.Point(349, 231);
+            this.Btn31.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn31.Name = "Btn31";
-            this.Btn31.Size = new System.Drawing.Size(68, 59);
+            this.Btn31.Size = new System.Drawing.Size(91, 73);
             this.Btn31.TabIndex = 7;
             this.Btn31.TabStop = false;
             this.Btn31.Text = "15";
@@ -129,9 +134,10 @@
             // 
             this.Btn21.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn21.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn21.Location = new System.Drawing.Point(188, 188);
+            this.Btn21.Location = new System.Drawing.Point(251, 231);
+            this.Btn21.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn21.Name = "Btn21";
-            this.Btn21.Size = new System.Drawing.Size(68, 59);
+            this.Btn21.Size = new System.Drawing.Size(91, 73);
             this.Btn21.TabIndex = 6;
             this.Btn21.TabStop = false;
             this.Btn21.Text = "15";
@@ -142,9 +148,10 @@
             // 
             this.Btn11.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn11.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn11.Location = new System.Drawing.Point(114, 188);
+            this.Btn11.Location = new System.Drawing.Point(152, 231);
+            this.Btn11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn11.Name = "Btn11";
-            this.Btn11.Size = new System.Drawing.Size(68, 59);
+            this.Btn11.Size = new System.Drawing.Size(91, 73);
             this.Btn11.TabIndex = 5;
             this.Btn11.TabStop = false;
             this.Btn11.Text = "15";
@@ -155,9 +162,10 @@
             // 
             this.Btn01.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn01.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn01.Location = new System.Drawing.Point(40, 188);
+            this.Btn01.Location = new System.Drawing.Point(53, 231);
+            this.Btn01.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn01.Name = "Btn01";
-            this.Btn01.Size = new System.Drawing.Size(68, 59);
+            this.Btn01.Size = new System.Drawing.Size(91, 73);
             this.Btn01.TabIndex = 4;
             this.Btn01.TabStop = false;
             this.Btn01.Text = "15";
@@ -168,9 +176,10 @@
             // 
             this.Btn32.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn32.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn32.Location = new System.Drawing.Point(262, 253);
+            this.Btn32.Location = new System.Drawing.Point(349, 311);
+            this.Btn32.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn32.Name = "Btn32";
-            this.Btn32.Size = new System.Drawing.Size(68, 59);
+            this.Btn32.Size = new System.Drawing.Size(91, 73);
             this.Btn32.TabIndex = 11;
             this.Btn32.TabStop = false;
             this.Btn32.Text = "15";
@@ -181,9 +190,10 @@
             // 
             this.Btn22.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn22.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn22.Location = new System.Drawing.Point(188, 253);
+            this.Btn22.Location = new System.Drawing.Point(251, 311);
+            this.Btn22.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn22.Name = "Btn22";
-            this.Btn22.Size = new System.Drawing.Size(68, 59);
+            this.Btn22.Size = new System.Drawing.Size(91, 73);
             this.Btn22.TabIndex = 10;
             this.Btn22.TabStop = false;
             this.Btn22.Text = "15";
@@ -194,9 +204,10 @@
             // 
             this.Btn12.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn12.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn12.Location = new System.Drawing.Point(114, 253);
+            this.Btn12.Location = new System.Drawing.Point(152, 311);
+            this.Btn12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn12.Name = "Btn12";
-            this.Btn12.Size = new System.Drawing.Size(68, 59);
+            this.Btn12.Size = new System.Drawing.Size(91, 73);
             this.Btn12.TabIndex = 9;
             this.Btn12.TabStop = false;
             this.Btn12.Text = "15";
@@ -207,9 +218,10 @@
             // 
             this.Btn02.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn02.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn02.Location = new System.Drawing.Point(40, 253);
+            this.Btn02.Location = new System.Drawing.Point(53, 311);
+            this.Btn02.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn02.Name = "Btn02";
-            this.Btn02.Size = new System.Drawing.Size(68, 59);
+            this.Btn02.Size = new System.Drawing.Size(91, 73);
             this.Btn02.TabIndex = 8;
             this.Btn02.TabStop = false;
             this.Btn02.Text = "15";
@@ -220,9 +232,10 @@
             // 
             this.Btn33.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn33.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn33.Location = new System.Drawing.Point(262, 318);
+            this.Btn33.Location = new System.Drawing.Point(349, 391);
+            this.Btn33.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn33.Name = "Btn33";
-            this.Btn33.Size = new System.Drawing.Size(68, 59);
+            this.Btn33.Size = new System.Drawing.Size(91, 73);
             this.Btn33.TabIndex = 15;
             this.Btn33.TabStop = false;
             this.Btn33.Text = "15";
@@ -233,9 +246,10 @@
             // 
             this.Btn23.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn23.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn23.Location = new System.Drawing.Point(188, 318);
+            this.Btn23.Location = new System.Drawing.Point(251, 391);
+            this.Btn23.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn23.Name = "Btn23";
-            this.Btn23.Size = new System.Drawing.Size(68, 59);
+            this.Btn23.Size = new System.Drawing.Size(91, 73);
             this.Btn23.TabIndex = 14;
             this.Btn23.TabStop = false;
             this.Btn23.Text = "15";
@@ -246,9 +260,10 @@
             // 
             this.Btn13.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn13.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn13.Location = new System.Drawing.Point(114, 318);
+            this.Btn13.Location = new System.Drawing.Point(152, 391);
+            this.Btn13.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn13.Name = "Btn13";
-            this.Btn13.Size = new System.Drawing.Size(68, 59);
+            this.Btn13.Size = new System.Drawing.Size(91, 73);
             this.Btn13.TabIndex = 13;
             this.Btn13.TabStop = false;
             this.Btn13.Text = "15";
@@ -259,9 +274,10 @@
             // 
             this.Btn03.BackColor = System.Drawing.Color.WhiteSmoke;
             this.Btn03.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn03.Location = new System.Drawing.Point(40, 318);
+            this.Btn03.Location = new System.Drawing.Point(53, 391);
+            this.Btn03.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Btn03.Name = "Btn03";
-            this.Btn03.Size = new System.Drawing.Size(68, 59);
+            this.Btn03.Size = new System.Drawing.Size(91, 73);
             this.Btn03.TabIndex = 12;
             this.Btn03.TabStop = false;
             this.Btn03.Text = "15";
@@ -271,12 +287,13 @@
             // BtnStart
             // 
             this.BtnStart.Font = new System.Drawing.Font("Arial", 21.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BtnStart.Location = new System.Drawing.Point(188, 37);
+            this.BtnStart.Location = new System.Drawing.Point(251, 46);
+            this.BtnStart.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.BtnStart.Name = "BtnStart";
-            this.BtnStart.Size = new System.Drawing.Size(142, 42);
+            this.BtnStart.Size = new System.Drawing.Size(189, 52);
             this.BtnStart.TabIndex = 16;
             this.BtnStart.TabStop = false;
-            this.BtnStart.Text = "START";
+            this.BtnStart.Text = "Старт";
             this.BtnStart.UseVisualStyleBackColor = true;
             this.BtnStart.Click += new System.EventHandler(this.BtnStart_Click);
             // 
@@ -284,29 +301,32 @@
             // 
             this.LbMoves.BackColor = System.Drawing.Color.Transparent;
             this.LbMoves.Font = new System.Drawing.Font("Arial", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.LbMoves.Location = new System.Drawing.Point(37, 380);
+            this.LbMoves.Location = new System.Drawing.Point(49, 468);
+            this.LbMoves.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LbMoves.Name = "LbMoves";
-            this.LbMoves.Size = new System.Drawing.Size(293, 47);
+            this.LbMoves.Size = new System.Drawing.Size(391, 58);
             this.LbMoves.TabIndex = 17;
-            this.LbMoves.Text = "Hello";
+            this.LbMoves.Text = "Привіт";
             this.LbMoves.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuStrip1
             // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuToolStripMenuItem,
             this.optionsToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(379, 24);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(505, 28);
             this.menuStrip1.TabIndex = 19;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // menuToolStripMenuItem
             // 
             this.menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            this.menuToolStripMenuItem.Size = new System.Drawing.Size(85, 20);
-            this.menuToolStripMenuItem.Text = "Leaderboard";
+            this.menuToolStripMenuItem.Size = new System.Drawing.Size(133, 24);
+            this.menuToolStripMenuItem.Text = "Дошка рекордів";
             this.menuToolStripMenuItem.Click += new System.EventHandler(this.menuToolStripMenuItem_Click);
             // 
             // optionsToolStripMenuItem
@@ -315,28 +335,29 @@
             this.aboutToolStripMenuItem,
             this.instructionsToolStripMenuItem});
             this.optionsToolStripMenuItem.Name = "optionsToolStripMenuItem";
-            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
-            this.optionsToolStripMenuItem.Text = "Options";
+            this.optionsToolStripMenuItem.Size = new System.Drawing.Size(58, 24);
+            this.optionsToolStripMenuItem.Text = "Опції";
             // 
             // aboutToolStripMenuItem
             // 
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(216, 26);
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
             // instructionsToolStripMenuItem
             // 
             this.instructionsToolStripMenuItem.Name = "instructionsToolStripMenuItem";
-            this.instructionsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.instructionsToolStripMenuItem.Size = new System.Drawing.Size(216, 26);
             this.instructionsToolStripMenuItem.Text = "Instruction";
             this.instructionsToolStripMenuItem.Click += new System.EventHandler(this.instructionsToolStripMenuItem_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(82, 49);
+            this.textBox1.Location = new System.Drawing.Point(109, 60);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(132, 22);
             this.textBox1.TabIndex = 20;
             // 
             // label1
@@ -344,11 +365,12 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(33, 47);
+            this.label1.Location = new System.Drawing.Point(44, 58);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(43, 20);
+            this.label1.Size = new System.Drawing.Size(35, 23);
             this.label1.TabIndex = 21;
-            this.label1.Text = "Name";
+            this.label1.Text = "Імя";
             // 
             // timer1
             // 
@@ -361,18 +383,19 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label2.Location = new System.Drawing.Point(27, 391);
+            this.label2.Location = new System.Drawing.Point(36, 481);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(59, 23);
+            this.label2.Size = new System.Drawing.Size(71, 28);
             this.label2.TabIndex = 22;
             this.label2.Text = "00:00";
             // 
             // FormGame
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::WinGame15.Properties.Resources.back1;
-            this.ClientSize = new System.Drawing.Size(379, 428);
+            this.ClientSize = new System.Drawing.Size(505, 527);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
@@ -398,6 +421,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormGame";
