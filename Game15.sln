@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Board", "Board\Board.csproj", "{6866361B-C582-496D-B8F4-B0676BEBC4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardTests", "BoardTests\BoardTests.csproj", "{7228AA1E-E1F6-4D3E-A45C-6E1A2B8A689C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinGame15", "WinGame15\WinGame15.csproj", "{3DF60914-EA43-44B8-B9FD-86C826D2175E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6866361B-C582-496D-B8F4-B0676BEBC4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6866361B-C582-496D-B8F4-B0676BEBC4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6866361B-C582-496D-B8F4-B0676BEBC4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6866361B-C582-496D-B8F4-B0676BEBC4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7228AA1E-E1F6-4D3E-A45C-6E1A2B8A689C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7228AA1E-E1F6-4D3E-A45C-6E1A2B8A689C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7228AA1E-E1F6-4D3E-A45C-6E1A2B8A689C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7228AA1E-E1F6-4D3E-A45C-6E1A2B8A689C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF60914-EA43-44B8-B9FD-86C826D2175E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF60914-EA43-44B8-B9FD-86C826D2175E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF60914-EA43-44B8-B9FD-86C826D2175E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF60914-EA43-44B8-B9FD-86C826D2175E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E7EA29-0D62-47FD-8E4A-44F508969352}
+	EndGlobalSection
+EndGlobal
