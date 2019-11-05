@@ -16,3 +16,9 @@ C:\Users\pk1\Desktop\Game15\Board\obj\Debug\Board.csprojResolveAssemblyReference
 C:\Users\pk1\Desktop\Game15\Board\obj\Debug\Board.csproj.CoreCompileInputs.cache
 C:\Users\pk1\Desktop\Game15\Board\obj\Debug\Board.dll
 C:\Users\pk1\Desktop\Game15\Board\obj\Debug\Board.pdb
+D:\study\Game15\Board\bin\Debug\Board.dll
+D:\study\Game15\Board\bin\Debug\Board.pdb
+D:\study\Game15\Board\obj\Debug\Board.csprojAssemblyReference.cache
+D:\study\Game15\Board\obj\Debug\Board.csproj.CoreCompileInputs.cache
+D:\study\Game15\Board\obj\Debug\Board.dll
+D:\study\Game15\Board\obj\Debug\Board.pdb
